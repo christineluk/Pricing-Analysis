@@ -1,2 +1,2 @@
 # Pricing-Analysis
-SQL projects on price elasticity analysis
+SQL project on price elasticity analysis
